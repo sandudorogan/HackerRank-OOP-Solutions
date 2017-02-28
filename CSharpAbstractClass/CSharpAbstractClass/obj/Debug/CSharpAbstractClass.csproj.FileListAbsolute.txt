@@ -1,0 +1,6 @@
+c:\users\sandu dorogan\documents\visual studio 2015\Projects\CSharpAbstractClass\CSharpAbstractClass\bin\Debug\CSharpAbstractClass.exe.config
+c:\users\sandu dorogan\documents\visual studio 2015\Projects\CSharpAbstractClass\CSharpAbstractClass\bin\Debug\CSharpAbstractClass.exe
+c:\users\sandu dorogan\documents\visual studio 2015\Projects\CSharpAbstractClass\CSharpAbstractClass\bin\Debug\CSharpAbstractClass.pdb
+c:\users\sandu dorogan\documents\visual studio 2015\Projects\CSharpAbstractClass\CSharpAbstractClass\obj\Debug\CSharpAbstractClass.csprojResolveAssemblyReference.cache
+c:\users\sandu dorogan\documents\visual studio 2015\Projects\CSharpAbstractClass\CSharpAbstractClass\obj\Debug\CSharpAbstractClass.exe
+c:\users\sandu dorogan\documents\visual studio 2015\Projects\CSharpAbstractClass\CSharpAbstractClass\obj\Debug\CSharpAbstractClass.pdb

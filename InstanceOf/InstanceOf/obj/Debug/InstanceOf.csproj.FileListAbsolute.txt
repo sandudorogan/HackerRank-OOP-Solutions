@@ -1,0 +1,6 @@
+c:\users\sandu dorogan\documents\visual studio 2015\Projects\InstanceOf\InstanceOf\bin\Debug\InstanceOf.exe.config
+C:\Users\Sandu Dorogan\documents\visual studio 2015\Projects\InstanceOf\InstanceOf\bin\Debug\InstanceOf.exe
+C:\Users\Sandu Dorogan\documents\visual studio 2015\Projects\InstanceOf\InstanceOf\bin\Debug\InstanceOf.pdb
+C:\Users\Sandu Dorogan\documents\visual studio 2015\Projects\InstanceOf\InstanceOf\obj\Debug\InstanceOf.csprojResolveAssemblyReference.cache
+C:\Users\Sandu Dorogan\documents\visual studio 2015\Projects\InstanceOf\InstanceOf\obj\Debug\InstanceOf.exe
+C:\Users\Sandu Dorogan\documents\visual studio 2015\Projects\InstanceOf\InstanceOf\obj\Debug\InstanceOf.pdb

@@ -1,0 +1,6 @@
+c:\users\sandu dorogan\documents\visual studio 2015\Projects\Interface\Interface\bin\Debug\Interface.exe.config
+c:\users\sandu dorogan\documents\visual studio 2015\Projects\Interface\Interface\bin\Debug\Interface.exe
+c:\users\sandu dorogan\documents\visual studio 2015\Projects\Interface\Interface\bin\Debug\Interface.pdb
+c:\users\sandu dorogan\documents\visual studio 2015\Projects\Interface\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+c:\users\sandu dorogan\documents\visual studio 2015\Projects\Interface\Interface\obj\Debug\Interface.exe
+c:\users\sandu dorogan\documents\visual studio 2015\Projects\Interface\Interface\obj\Debug\Interface.pdb

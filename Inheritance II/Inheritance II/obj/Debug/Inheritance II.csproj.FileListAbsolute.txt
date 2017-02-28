@@ -1,0 +1,6 @@
+c:\users\sandu dorogan\documents\visual studio 2015\Projects\Inheritance II\Inheritance II\bin\Debug\Inheritance II.exe.config
+c:\users\sandu dorogan\documents\visual studio 2015\Projects\Inheritance II\Inheritance II\bin\Debug\Inheritance II.exe
+c:\users\sandu dorogan\documents\visual studio 2015\Projects\Inheritance II\Inheritance II\bin\Debug\Inheritance II.pdb
+c:\users\sandu dorogan\documents\visual studio 2015\Projects\Inheritance II\Inheritance II\obj\Debug\Inheritance II.csprojResolveAssemblyReference.cache
+c:\users\sandu dorogan\documents\visual studio 2015\Projects\Inheritance II\Inheritance II\obj\Debug\Inheritance II.exe
+c:\users\sandu dorogan\documents\visual studio 2015\Projects\Inheritance II\Inheritance II\obj\Debug\Inheritance II.pdb
